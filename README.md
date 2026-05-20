@@ -14,9 +14,7 @@ For me, programming is about strong foundational engineering and understanding h
 <p align="center"> ⋆ ☄︎. · ̊ * 🔭 ⋆ </p>
 
 ## ⚙️ Technologies
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/openjdk/F5F5F5" height="50" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
