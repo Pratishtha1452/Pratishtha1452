@@ -11,7 +11,9 @@ For me, programming is about strong foundational engineering and understanding h
 
 <br>
 
-## ⚙️ System Overview
+<p align="center"> ⋆ ☄︎. · ̊ * 🔭 ⋆ </p>
+
+## ⚙️ Technologies
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
@@ -27,17 +29,13 @@ For me, programming is about strong foundational engineering and understanding h
   <img src="https://cdn.simpleicons.org/git/F5F5F5" height="50" alt="Git">
 </p>
 
-<p align="center"> ⋆ ☄︎. · ̊ * 🔭 ⋆ </p>
-
 ## 🌐 Network Ping
 <hr>
 
-<div align="center">
-<a href="pratishthadeshpande17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="www.linkedin.com/in/pratishtha-deshpande-00a509362"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/u/Pratishtha_/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116">
-</a>
-</div>
+<p align="center">
+  <a href="mailto:pratishthadeshpande17@gmail.com"><img src="https://cdn.simpleicons.org/gmail/F5F5F5" height="40" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pratishtha-deshpande-00a509362"><img src="https://cdn.simpleicons.org/linkedin/F5F5F5" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Pratishtha_/"><img src="https://cdn.simpleicons.org/leetcode/F5F5F5" height="40" alt="LeetCode"></a>
+</p>
 
 <br>
