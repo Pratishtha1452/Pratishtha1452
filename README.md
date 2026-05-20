@@ -17,7 +17,7 @@ For me, programming is about strong foundational engineering and understanding h
 ## ⚙️ Technologies
 
 <p align="center">
-  <img src="https://api.iconify.design/mdi:language-java.svg?color=%23F5F5F5" height="50" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/mdi:language-java.svg?color=%23F5F5F5&width=50&height=50" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/F5F5F5" height="50" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F5F5F5" height="50" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/spring/F5F5F5" height="50" alt="Spring">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,6 @@ For me, programming is about strong foundational engineering and understanding h
   <img src="https://cdn.simpleicons.org/mysql/F5F5F5" height="50" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F5F5F5" height="50" alt="Git">
 </p>
-
 <hr>
 
 ## 🌐 Network Ping
