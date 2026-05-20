@@ -11,21 +11,21 @@ For me, programming is about strong foundational engineering and understanding h
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## ⚙️ System Overview
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-## ⚙️ Core Stack & Technologies
-<hr>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<br>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/openjdk/F5F5F5" height="50" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/F5F5F5" height="50" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F5F5F5" height="50" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spring/F5F5F5" height="50" alt="Spring">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/springboot/F5F5F5" height="50" alt="Spring Boot">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/F5F5F5" height="50" alt="PostgreSQL">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/F5F5F5" height="50" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F5F5F5" height="50" alt="Git">
+</p>
 
 <p align="center"> ⋆ ☄︎. · ̊ * 🔭 ⋆ </p>
 
@@ -41,7 +41,3 @@ For me, programming is about strong foundational engineering and understanding h
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg"> 
-</p>
