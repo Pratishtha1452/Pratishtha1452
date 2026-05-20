@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_TO_YOUR_BLACK_HOLE_BANNER.png" alt="Hey! It's Pratishta Banner" width="850">
+  <img src="created for.png" alt="Hey! It's Pratishtha" width="100%">
 </p>
 
 ## 📝 Initial Commit
@@ -17,7 +17,7 @@ For me, programming is about strong foundational engineering and understanding h
 <hr>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/java/F5F5F5" height="50" alt="Java">
+  <img src="https://api.iconify.design/mdi:language-java.svg?color=%23F5F5F5" height="50" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/F5F5F5" height="50" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F5F5F5" height="50" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/spring/F5F5F5" height="50" alt="Spring">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,8 +31,8 @@ For me, programming is about strong foundational engineering and understanding h
 <hr>
 
 <p align="center">
-  <a href="mailto:pratishthadeshpande17@gmail.com"><img src="https://cdn.simpleicons.org/maildotcom/F5F5F5" height="40" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pratishtha-deshpande-00a509362"><img src="https://cdn.simpleicons.org/linkedin/F5F5F5" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pratishthadeshpande17@gmail.com"><img src="https://api.iconify.design/mdi:email.svg?color=%23F5F5F5" height="40" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pratishtha-deshpande-00a509362"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%23F5F5F5" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Pratishtha_/"><img src="https://cdn.simpleicons.org/leetcode/F5F5F5" height="40" alt="LeetCode"></a>
 </p>
 
