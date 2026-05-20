@@ -4,7 +4,6 @@
 <hr>
 
 ## 📝 Initial Commit
-<hr>
 
 Hello! I'm Pratishta. I'm a Software Developer based in India with a deep, genuine interest in the discipline of Computer Science. 
 
@@ -13,9 +12,9 @@ For me, programming is about strong foundational engineering and understanding h
 <br>
 
 <p align="center"> ⋆ ☄︎. · ̊ * 🔭 ⋆ </p>
+<hr>
 
 ## ⚙️ Technologies
-<hr>
 
 <p align="center">
   <img src="https://api.iconify.design/mdi:language-java.svg?color=%23F5F5F5" height="50" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,8 +27,9 @@ For me, programming is about strong foundational engineering and understanding h
   <img src="https://cdn.simpleicons.org/git/F5F5F5" height="50" alt="Git">
 </p>
 
-## 🌐 Network Ping
 <hr>
+## 🌐 Network Ping
+
 
 <p align="center">
   <a href="mailto:pratishthadeshpande17@gmail.com"><img src="https://api.iconify.design/mdi:email.svg?color=%23F5F5F5&width=40&height=40" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
