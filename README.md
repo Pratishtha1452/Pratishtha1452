@@ -1,6 +1,7 @@
 <p align="center">
   <img src="created for.png" alt="Hey! It's Pratishtha" width="100%">
 </p>
+<hr>
 
 ## 📝 Initial Commit
 <hr>
@@ -31,8 +32,8 @@ For me, programming is about strong foundational engineering and understanding h
 <hr>
 
 <p align="center">
-  <a href="mailto:pratishthadeshpande17@gmail.com"><img src="https://api.iconify.design/mdi:email.svg?color=%23F5F5F5" height="100" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pratishtha-deshpande-00a509362"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%23F5F5F5" height="100" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pratishthadeshpande17@gmail.com"><img src="https://api.iconify.design/mdi:email.svg?color=%23F5F5F5&width=40&height=40" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pratishtha-deshpande-00a509362"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%23F5F5F5&width=40&height=40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Pratishtha_/"><img src="https://cdn.simpleicons.org/leetcode/F5F5F5" height="40" alt="LeetCode"></a>
 </p>
 
