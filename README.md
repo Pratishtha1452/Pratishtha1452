@@ -5,7 +5,7 @@
 
 ## 📝 Initial Commit
 
-Hello! I'm Pratishta. I'm a Software Developer based in India with a deep, genuine interest in the discipline of Computer Science. 
+Hello! I'm Pratishtha. I'm a Software Developer based in India with a deep, genuine interest in the discipline of Computer Science. 
 
 For me, programming is about strong foundational engineering and understanding how systems work under the hood. I have a pure love for Java, and I'm currently channelling that into full-stack web development, actively building robust backends using Spring Boot. I care heavily about clean architecture, performance, and writing maintainable code.
 
