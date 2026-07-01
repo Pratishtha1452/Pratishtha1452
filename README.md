@@ -24,8 +24,8 @@ For me, programming is about strong foundational engineering and understanding h
   <img src="https://cdn.simpleicons.org/springboot/F5F5F5" height="50" alt="Spring Boot">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/F5F5F5" height="50" alt="PostgreSQL">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/F5F5F5" height="50" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F5F5F5" height="50" alt="Git">
-  <img src="https://cdn.simpleicons.org/postman/F5F5F5" height="50" alt="Postman">
+  <img src="https://cdn.simpleicons.org/git/F5F5F5" height="50" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/F5F5F5" height="50" alt="Postman">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 
