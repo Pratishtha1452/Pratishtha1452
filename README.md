@@ -36,8 +36,8 @@ For me, programming is about strong foundational engineering and understanding h
 <p align="center">
   <a href="mailto:pratishthadeshpande17@gmail.com"><img src="https://api.iconify.design/mdi:email.svg?color=%23F5F5F5&width=40&height=40" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pratishtha-deshpande-00a509362"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%23F5F5F5&width=40&height=40" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Pratishtha_/"><img src="https://cdn.simpleicons.org/leetcode/F5F5F5&width=40&height=40" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Pratishtha1452"><img src="https://cdn.simpleicons.org/x/F5F5F5&width=40&height=40" alt="X"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Pratishtha_/"><img src="https://cdn.simpleicons.org/leetcode/F5F5F5" height="40" width="40" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Pratishtha1452"><img src="https://cdn.simpleicons.org/x/F5F5F5" height="40" width="40" alt="X"></a>
 </p>
 
 <br>
