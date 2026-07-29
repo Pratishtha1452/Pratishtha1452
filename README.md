@@ -2,7 +2,6 @@
   <img src="created for.png" alt="Hey! It's Pratishtha" width="100%">
 </p>
 
-<hr>
 
 ## 📝 Initial Commit
 
