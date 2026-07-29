@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Hey! It's Pratishtha" width="100%">
+  <img src="created for.png" alt="Hey! It's Pratishtha" width="100%">
 </p>
 
 <hr>
@@ -8,7 +8,7 @@
 
 Hello! I'm Pratishtha. I'm a Software Developer based in India with a deep, genuine interest in the discipline of Computer Science. 
 
-For me, programming is about strong foundational engineering and understanding how systems work under the hood. I have a pure love for Java, and I'm currently channelling that into full-stack web development, actively building robust backends using Spring Boot. I care heavily about clean architecture, performance, and writing maintainable code.
+For me, programming is about strong foundational engineering and understanding how systems work under the hood. I have a pure love for Java, and I'm currently channelling it into full-stack web development, building robust backends with Spring Boot. I care heavily about clean architecture, performance, and writing maintainable code.
 
 <br>
 
